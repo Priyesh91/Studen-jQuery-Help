@@ -1,0 +1,18 @@
+.red, .blue, .purple, .black{
+  height: 15vh;
+  width: 15vh;
+  margin:1%;
+  background-color: red;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.purple{
+ background-color: purple;
+}
+.black{
+ background-color: black;
+}
